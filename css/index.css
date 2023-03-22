@@ -185,13 +185,13 @@ header{
     max-height: 34rem;
     padding: 2rem;
     margin-top: 10rem;
-    
     background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
-
+    border-radius: 35px;
 }
+    
 
 .img-card-right{
     width: 12rem;
